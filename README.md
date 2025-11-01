@@ -2,12 +2,12 @@ Hello team at Squoosh.ai my name is Connor Diehl and I have added 2 projects tha
 Connord7882@gmail.com
 
 TicTacToe AI:
-This was made during my CS50 course with harvard the runner.py file was not made by me and was given to us.
+This was made during my CS50 course with Harvard. The runner.py file was not made by me and was given to us.
 The TicTacToe.py was made by me and contains the actual logic and AI for the program.
 
 Mnist was a personal project that I worked on because I wanted to try different AI models that were less common.
 I like the way it turned out with a 96.5% accuracy rating with 10,000 test data points.
-One thing I would have done different when working on this project is made it to go faster and not have it iterate through the Training set every time.
+One thing I would have done differently when working on this project is made it to go faster and not have it iterate through the Training set every time.
 
 Thank you for your time,
 Connor Diehl

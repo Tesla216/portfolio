@@ -1,4 +1,4 @@
-Hello team at Squoosh.ai my name is Connor Diehl and I have added 2 projects that I have made. If there is anything else you need from me or would like to set up a time to talk please let me know.
+Hello team my name is Connor Diehl and I have added 2 projects that I have made. If there is anything else you need from me or would like to set up a time to talk please let me know.
 Connord7882@gmail.com
 
 TicTacToe AI:
